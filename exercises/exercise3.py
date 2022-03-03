@@ -1,7 +1,7 @@
 first_name = 'Jack'
 last_name = 'Black'
 full_name = f'{first_name} {last_name}'
-message = f'Hello, {full_name.title()}, King Kong still lives on skull island'
+message = f'Hello, {full_name.title()}, King Kong still lives on skull island.\n'
 print(message)
 
 name = 'jane doe'
