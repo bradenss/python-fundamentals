@@ -75,7 +75,6 @@ print(value6)
 
 # inout allows for users to provide information for us to use
 name = input('What is your name?')
-movie = input('What is your favorite movie?')
-
+movie = input('What is your favorite movie? ')
 message = 'My name is {0} and my favorite movie is {1}'
 print(message.format(name, movie))
