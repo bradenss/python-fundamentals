@@ -31,7 +31,7 @@ def basic_nested():
     print()
 
 
-# basic_nested()
+basic_nested()
 
 # range()
 # This is used to return a sequence of numbers. This includes a start
@@ -109,5 +109,5 @@ def basic_else():
         print('loop ends')
 
 
-basic_else()
+# basic_else()
 
